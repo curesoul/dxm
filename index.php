@@ -1,3 +1,5 @@
 <?php
-echo 'test';
+
+require_once 'template/functions.php'l
+
 ?>
